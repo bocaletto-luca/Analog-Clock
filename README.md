@@ -1,4 +1,4 @@
-# Software Name: Analog Clock
+# Analog Clock
 
 **Author:** Bocaletto Luca
 
