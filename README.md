@@ -36,3 +36,13 @@ The application is launched, and a graphical interface displays the analog clock
 The application is executed through the main block `if __name__ == "__main__."` It begins by creating a graphical application (`QGuiApplication`), then creates a clock window (`AnalogClockWindow`) and displays it. The application runs in a main loop until the user closes it.
 
 This software serves as an example of creating a simple graphical application with PySide6 and can be further customized to add additional features or graphic styles.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
